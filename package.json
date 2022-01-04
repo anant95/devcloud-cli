@@ -1,0 +1,19 @@
+{
+  "name": "todos-cli",
+  "version": "1.0.0",
+  "description": "begineer project blog.logrocket.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anant",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "conf": "^10.1.1"
+  },
+  "bin": {
+    "todos": "index.js"
+    }
+}
